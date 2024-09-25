@@ -108,6 +108,9 @@ buttons.addEventListener("mouseleave", () => {
 
 
 
+
+
+
 window.onload = () => {
     autoPlay()
 }
